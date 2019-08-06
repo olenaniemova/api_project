@@ -1,0 +1,19 @@
+current directory: /home/lena/projects/api_proj/api_proj/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/home/lena/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20190806-4305-s4if2f.rb extconf.rb
+creating Makefile
+
+current directory: /home/lena/projects/api_proj/api_proj/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/lena/projects/api_proj/api_proj/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/lena/projects/api_proj/api_proj/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190806-4305-vf9l1e/byebug
